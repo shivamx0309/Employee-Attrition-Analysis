@@ -3,7 +3,7 @@
 
 ## 🖼 Dashboard Preview
 
-![Employee-Attrition-Analysis](Dashboard_Preiview.png)
+![](Dashboard_Preview.png)
 
 ---
 
