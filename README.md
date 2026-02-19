@@ -3,7 +3,7 @@
 
 ## 🖼 Dashboard Preview
 
-![HR Attrition Dashboard](Dashboard_Preiview.png)
+![Employee-Attrition-Analysis](Dashboard_Preiview.png)
 
 ---
 
